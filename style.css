@@ -1,0 +1,24 @@
+li {
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-right: 2rem;
+}
+  body{
+      background-color: rgb(65, 65, 112);
+  }  
+  li:hover{
+      color: darkgoldenrod;
+  }
+a{
+    color: seashell;
+    margin-top: 3rem;
+    margin-right: 2rem;
+    text-decoration: none;
+}  
+a:hover{
+    color: pink;
+}
+a:active{
+    color: greenyellow;
+}
+
